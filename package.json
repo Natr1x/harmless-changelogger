@@ -4,6 +4,10 @@
     "description": "Utility for managing CHANGELOG.md files",
     "version": "0.0.1",
     "publisher": "natr1x",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Natr1x/harmless-changelogger.git"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
